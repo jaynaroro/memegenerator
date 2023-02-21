@@ -62,7 +62,7 @@ export default function Main(){
                 />
 
                 <button onClick={handleClick} className="image-button">
-                    <img src={buttonImage} alt="button-image" />
+                    <img src={buttonImage} alt="button-pic" />
                 </button>
             </div>
 
